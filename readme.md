@@ -1,0 +1,1 @@
+source townhall/bin/activate
